@@ -1,0 +1,8 @@
+M s s s s s s s
+s # s . . # # #
+s s # . . # . .
+s . . p q . . .
+s . . Q P . # s
+s # # . . # s s
+s # . . # s # s
+s # . . s s s s

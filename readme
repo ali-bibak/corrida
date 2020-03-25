@@ -1,0 +1,65 @@
+****************************************
+*  Corrida  ****************************
+****************************************
+*  				   
+*  Corrida			   
+*  by: Ali Bibak		 
+*  Jul 20, 2014			 	
+*					
+****************************************
+*  General Notes ***********************
+****************************************
+*									   
+*  - The executable game file is in    
+*  'source' directory.				   
+*									   
+*  - You can play with your custom     
+*  map; to do so place your 'map.txt'  
+*  in 'map' directory.				   
+*  									   
+*  - You can customize your graphics   
+*  with customize option in main menu  
+*  where a South Park theme is 		   
+*  available too.					   							
+*									   
+****************************************
+*  Technical Notes  ********************
+****************************************
+*									   
+*  - Comment/delete the first line	   
+*  define (10) in 'server.cpp' if you  
+*  don't want fatal error logs shown   
+*  in terminal, and the second (11)    
+*  for logs written in 'log.txt'	   
+*									   
+*  - All 4 sources 'My_Graphic.h',     
+*  'My_Player.h', 'My_Monster.h', and  
+*  'server.cpp' are completely 		   
+*  independent and any of them could   
+*  be replaced by any other working    
+*  independent source. 				    
+*  									   
+*  - 'Intelligence.h' is used by	   
+*  'My_Player.h', 'My_Monster.h' and   
+*  'server.cpp' (independently and     
+*  without interference).			   
+*									   
+*  - 'data' directory is used by 	   
+*  'My_Graphic.h'					   
+*									   
+*  - 'map' and 'log' directories are   
+*  used by 'server.cpp'			   
+*									   
+*  - SFML 1.6 has been used for		   
+*  graphics. You can visit this	  	   
+*  website for getting it (or later    
+*  versions): http://sfml-dev.org/     
+*									   
+****************************************
+*  Contact Info ************************
+****************************************
+*									   
+*  Corrida can be reached at: 		   
+*  E-mail: bibak.ali@ut.ac.ir		   
+*									   
+****************************************
